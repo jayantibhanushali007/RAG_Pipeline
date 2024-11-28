@@ -1,0 +1,14 @@
+streamlit
+watchdog
+sentence-transformers
+transformers
+scikit-learn
+torch
+numpy
+pymupdf
+rich
+langchain==0.2.15
+langchain-openai== 0.1.23
+langchain-community == 0.2.13
+nltk
+python-dotenv
