@@ -1,6 +1,3 @@
-# RAG_Pipeline
-RAG project that lets you upload PDF and asks questions around it.
-
 # RAG Pipeline: Question Answering from PDF
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for question answering from PDF documents. The pipeline extracts text from PDFs, splits the text into chunks, generates embeddings, retrieves relevant context, and generates answers to user queries.
@@ -9,10 +6,8 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for ques
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Architecture](#architecture)
+- [Project Snapshots](#project-snapshots)
 
 ## Installation
 
@@ -54,4 +49,17 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for ques
 
 3. Upload a PDF file and enter your question to get an answer based on the content of the PDF.
 
-## Project Structure
+
+## Architecture
+![image](https://github.com/user-attachments/assets/9680affb-118b-4deb-b735-c166a686d9c6)
+
+
+## Project Snapshots
+
+![image](https://github.com/user-attachments/assets/0a655715-09fe-4cbd-a1cb-d1d1be775334)
+
+![image](https://github.com/user-attachments/assets/23379a03-27e4-4467-8c34-042aea63170a)
+
+![image](https://github.com/user-attachments/assets/982ca618-2a61-4ccf-b182-8e7bc6b8db19)
+
+
